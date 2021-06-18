@@ -1,0 +1,242 @@
+﻿[
+    {
+        "ID": "1",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Airport Inn",
+        "DIRECCION": "Av. Grau Nro. 191",
+        "Latitud": "-12.173850",
+        "Longitud": "-76.95471"
+    },
+    {
+        "ID": "2",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Allpa Hotel & Suites",
+        "DIRECCION": "Clle Atahualpa Nro. 199 - Urb. Miraflores (Esq. Con Av. Dos De Mayo)",
+        "Latitud": "-12.115900",
+        "Longitud": "-77.03058"
+    },
+    {
+        "ID": "3",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Antara",
+        "DIRECCION": "Clle Alcanfores Nro. 450 - Urb. Miraflores",
+        "Latitud": "-12.127450",
+        "Longitud": "-77.02809"
+    },
+    {
+        "ID": "4",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Carmel Hotel",
+        "DIRECCION": "Clle Atahualpa Nro. 152",
+        "Latitud": "-12.115900",
+        "Longitud": "-77.03058"
+    },
+    {
+        "ID": "5",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Casa Cielo",
+        "DIRECCION": "Clle Berlin Nro. 370 - Urb. Miraflores",
+        "Latitud": "-12.120130",
+        "Longitud": "-77.03709"
+    },
+    {
+        "ID": "6",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "El Tambo Dos De Mayo",
+        "DIRECCION": "Av. Dos De Mayo Nro. 494",
+        "Latitud": "-12.090618",
+        "Longitud": "-77.036992"
+    },
+    {
+        "ID": "7",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Embajadores Hotel",
+        "DIRECCION": "Clle Cmdte Juan Fanning Nro. 320",
+        "Latitud": "-12.128601",
+        "Longitud": "-77.032563"
+    },
+    {
+        "ID": "8",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Esperanza",
+        "DIRECCION": "Clle Esperanza Nro.  350",
+        "Latitud": "-12.120385",
+        "Longitud": "-77.026296"
+    },
+    {
+        "ID": "9",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Faraona Grand Hotel",
+        "DIRECCION": "Clle Manuel Bonilla Nro. 185",
+        "Latitud": "-12.119666",
+        "Longitud": "-77.0271031"
+    },
+    {
+        "ID": "10",
+        "Clase": "1",
+        "NOMBRE COMERCIAL": "Ferré Miraflores",
+        "DIRECCION": "Clle Diego Ferre Nro. 235 - Urb. Miraflores (Alt. Cdra. 13 Av. Larco)",
+        "Latitud": "-12.119677",
+        "Longitud": "-77.02706019"
+    },
+    {
+        "ID": "11",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Casa Andina Select Miraflores",
+        "DIRECCION": "Clle Schell Nro. 452",
+        "Latitud": "-12.12317067",
+        "Longitud": "-77.027296"
+    },
+    {
+        "ID": "12",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Del Pilar Miraflores Hotel",
+        "DIRECCION": "Pj. Martir Olaya Nro. 141 - (Alt. Cdra. 1 Av. Jose Pardo)",
+        "Latitud": "-12.11895218",
+        "Longitud": "-77.03676813"
+    },
+    {
+        "ID": "13",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Four Points By Sheraton Miraflores",
+        "DIRECCION": "Calle Alcanfores Nro. 290",
+        "Latitud": "-12.1218416",
+        "Longitud": "-77.02781334"
+    },
+    {
+        "ID": "14",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Hotel Boulevard",
+        "DIRECCION": "Av. Jose Pardo Nro. 771",
+        "Latitud": "-12.1191032",
+        "Longitud": "-77.03637796"
+    },
+    {
+        "ID": "15",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Hotel Maria Angola",
+        "DIRECCION": "Av. La Paz Nro. 610",
+        "Latitud": "-12.12356661",
+        "Longitud": "-77.02698943"
+    },
+    {
+        "ID": "16",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "El Tambo Ii",
+        "DIRECCION": "Av. La Paz Nro. 720 - Urb. Miraflores",
+        "Latitud": "-12.1249207",
+        "Longitud": "-77.02715422"
+    },
+    {
+        "ID": "17",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Hotel Jose Antonio",
+        "DIRECCION": "Av. 28 De Julio Nro. 398 - Urb. Miraflores (Alt. Cdra. 9 Av. Larco)",
+        "Latitud": "-12.12632472",
+        "Longitud": "-77.03101995"
+    },
+    {
+        "ID": "18",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Hotel Jose Antonio Deluxe",
+        "DIRECCION": "Clle Bellavista Nro. 131 ",
+        "Latitud": "-12.11981482",
+        "Longitud": "-77.03182797"
+    },
+    {
+        "ID": "19",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Hotel Nobility",
+        "DIRECCION": "Av. Roosevelt (Ex-Republica De Panama) Nro. 6461 ",
+        "Latitud": "-12.12964185",
+        "Longitud": "-77.01775039"
+    },
+    {
+        "ID": "20",
+        "Clase": "2",
+        "NOMBRE COMERCIAL": "Hotel San Agustin Exclusive",
+        "DIRECCION": "Clle San Martin Nro. 550",
+        "Latitud": "-12.12618249",
+        "Longitud": "-77.0288757"
+    },
+    {
+        "ID": "21",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Casa Andina Premium",
+        "DIRECCION": "Av. La Paz Nro. 463",
+        "Latitud": "-12.12189822",
+        "Longitud": "-77.02672309"
+    },
+    {
+        "ID": "22",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Courtyard Lima Miraflores",
+        "DIRECCION": "Calle Schell Nro. 400 ",
+        "Latitud": "-12.12316622",
+        "Longitud": "-77.02775955"
+    },
+    {
+        "ID": "23",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Double Tree El Pardo Hotel",
+        "DIRECCION": "Jr.  Independencia Nro. 141",
+        "Latitud": "-12.08911576",
+        "Longitud": "-77.08481632"
+    },
+    {
+        "ID": "24",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Hilton Lima Miraflores",
+        "DIRECCION": "Av. La Paz Nro. 1099 - Urb. Miraflores",
+        "Latitud": "-12.12879537",
+        "Longitud": "-77.02636559"
+    },
+    {
+        "ID": "25",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Hotel Miramar",
+        "DIRECCION": "Calle  Bolognesi Nro. 191 - (Alt. Cdra. 6 Av. Jose Pardo)",
+        "Latitud": "-12.11986996",
+        "Longitud": "-77.03569296"
+    },
+    {
+        "ID": "26",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Jw Marriott Hotel Lima",
+        "DIRECCION": "Av. Malecon De La Reserva Nro. 615",
+        "Latitud": "-12.13161122",
+        "Longitud": "-77.02921304"
+    },
+    {
+        "ID": "27",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Miraflores park  Hotel",
+        "DIRECCION": "Av. Malecon De La Reserva Nro. 1035",
+        "Latitud": "-12.13504457",
+        "Longitud": "-77.02729456"
+    },
+    {
+        "ID": "28",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Sol De Oro Suites Hotel",
+        "DIRECCION": "Calle San Martin Nro. 305",
+        "Latitud": "-12.12490215",
+        "Longitud": "-77.03113547"
+    },
+    {
+        "ID": "29",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "HOTEL CROWNE PLAZA LIMA ",
+        "DIRECCION": " Av. Benavides 300 - Calle Colon Nro. 131 ",
+        "Latitud": "-12.12439491",
+        "Longitud": "-77.03008976"
+    },
+    {
+        "ID": "30",
+        "Clase": "3",
+        "NOMBRE COMERCIAL": "Ac Hotels Lima Miraflores",
+        "DIRECCION": "Mlc. De La Reserva Nro. 729 ",
+        "Latitud": "-12.13270174",
+        "Longitud": "-77.02934647"
+    }
+]
